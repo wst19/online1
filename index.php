@@ -14,6 +14,8 @@ and open the template in the editor.
         // put your code here
         
         echo "test 1";
+        
+        echo "branch 1";
         ?>
     </body>
 </html>
