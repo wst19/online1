@@ -16,6 +16,8 @@ and open the template in the editor.
         echo "test 1";
         
         echo "branch 1";
+        
+        echo "branch 8";
         ?>
     </body>
 </html>
